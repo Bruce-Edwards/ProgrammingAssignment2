@@ -1,6 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
+# 
+# the first function implements the methods to access to both the source matrix 
+# and the resulting inverse matrix
+# 
+# the second one returns the inverse in case it was already computed, and computes
+# and stores it in case the source matrix is a new one
 
 
 
